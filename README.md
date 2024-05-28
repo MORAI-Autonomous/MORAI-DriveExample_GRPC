@@ -1,4 +1,4 @@
-### - References
+### References
 - [gRPC official site](https://grpc.io/)  
 - [Protocol Buffers Documentation site](https://protobuf.dev/)    
 
@@ -14,3 +14,6 @@ Nuget
 - Grpc.Core.Api 2.46.5
 - Grpc.tools 2.38.1
 ```
+
+### Morai Simulator version
+24.R1
