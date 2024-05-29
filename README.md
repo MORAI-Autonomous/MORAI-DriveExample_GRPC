@@ -15,5 +15,5 @@ Nuget
 - Grpc.tools 2.38.1
 ```
 
-### Morai Simulator version
+### Morai Simulator Version
 24.R1
